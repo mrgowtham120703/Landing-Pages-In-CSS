@@ -4,10 +4,6 @@ Orange myTunes is a fully responsive front-end project that replicates a sleek m
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Live Preview Here](#) *(Optional – Add GitHub Pages or Netlify link)*
-
 ---
 
 ## 📌 Features
